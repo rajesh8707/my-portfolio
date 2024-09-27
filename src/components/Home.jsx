@@ -29,7 +29,7 @@ const Home = () => {
 
           </h1> */}
           <h1>My Name is Rajesh kumar</h1>
-          <p>I'm a frontend web developer.</p>
+          <p>I'm a frontend web developer. I have completed some projects using HTML5, CSS3 and Javascript. Currently i am learning React js.</p>
 
           <a 
           href="https://drive.google.com/file/d/1KUQCSGdqfGMQvA7PwImfdAQPdFLdWsJW/view?usp=sharing"
