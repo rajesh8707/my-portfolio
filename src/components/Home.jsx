@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react';
-import pdf from '../pdf/Resume.pdf';
 import hero1 from '../../public/assets/hero/hero1.jpg';
 import '../App.css';
 
@@ -33,8 +32,8 @@ const Home = () => {
           <p>I'm a frontend web developer.</p>
 
           <a 
-          href={pdf}
-           download="Resume.pdf"
+          href="https://drive.google.com/file/d/1KUQCSGdqfGMQvA7PwImfdAQPdFLdWsJW/view?usp=sharing"
+           target='_blank'
             className="btn btn-outline-warning my-3"
             >
               Download Resume
