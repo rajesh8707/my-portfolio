@@ -24,6 +24,7 @@ a {
     padding: 16px;
     font-size: 1.2rem;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .nav_bar .nav_items:hover {
@@ -67,8 +68,8 @@ a {
     animation-duration: 3s;
     animation-iteration-count: infinite;
 }
-/* 
-@keyframes superman{
+
+/* @keyframes superman{
     0%{
         border-color: blue;
         transform: translate(0,0px);
@@ -92,9 +93,9 @@ a {
         transform: translate(0,-0px);
         box-shadow: 10px 10px 100px 50px rgb(50,55,205);
     }
-} */
+}  */
 
-/* Experience section */
+/* Experience section
 
 .ex{
     width: 900px;

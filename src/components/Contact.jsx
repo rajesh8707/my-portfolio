@@ -9,15 +9,18 @@ import { SiGmail } from "react-icons/si";
 const Contact = () => {
   return (
     <>
-      <div className="containar cnatact">
+      <div className="containar contact" id="contact">
         <h1>CONTACT ME</h1>
-        <div className="contact-icon">
-          <a href="https://www.google.com" target="blank" className="items">
+        <div className="contact-icon"
+        data-aos="zoom-in"
+        data-aos-duration="1000"
+        >
+          {/* <a href="https://www.google.com" target="blank" className="items">
             <FaInstagramSquare className="icons" />
           </a>
           <a href="https://www.google.com" target="blank" className="items">
             <FaFacebook className="icons" />
-          </a>
+          </a> */}
           <a  href="https://www.linkedin.com/checkpoint/lg/login-submit" target="blank"className="items">
             <CiLinkedin className="icons" />
           </a>
